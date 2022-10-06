@@ -3,8 +3,7 @@ import counterReducer from '../features/counter/counterSlice';
 
 // Or from '@reduxjs/toolkit/query/react'
 import { setupListeners } from '@reduxjs/toolkit/query'
-import { pokemonApi } from './services/pokemon'
-
+import { pokemonApi } from '../services/pokemon';
 
 
 
